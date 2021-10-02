@@ -1,0 +1,29 @@
+{
+    "307928327": {
+        "users": {
+            "307928327": {
+                "username": "perfetto_day",
+                "ratings": {
+                    "workouts_done": 0,
+                    "challenges_done": 0,
+                    "challanges_failed": 0
+                },
+                "exercises": {
+                    "quantity": 1,
+                    "ex_1": {
+                        "name": "Отжимания",
+                        "goal": "2000",
+                        "start_date": null,
+                        "finish_date": "08.02.2021",
+                        "now": 0,
+                        "filling": false,
+                        "in_progress": true
+                    }
+                },
+                "workouts": {
+                    "quantity": 0
+                }
+            }
+        }
+    }
+}

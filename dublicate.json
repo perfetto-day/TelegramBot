@@ -1,0 +1,39 @@
+{
+    "307928327": {
+        "users":{
+            "687595402": {
+                "username": "perfetto_day1",
+                "first_name": "Глеб1",
+                "last_name": "Салахов1",
+                "raitings": {
+                    "workouts_done": 0,
+                    "challenges_done": 0,
+                    "challanges_failed": 0
+                },
+                "exercises": {
+                    "quantity": 1,
+                    "ex_1": {
+                        "name": "Отжимания",
+                        "goal": 2000,
+                        "start_date": "1.02.2021",
+                        "finish_date": "8.02.2021",
+                        "now": 100,
+                        "in_progress": true
+                    }
+                },
+                "workouts":{
+                    "quantity": 1,
+                    "w_1":{
+                        "name": null,
+                        "goal": null,
+                        "start_date": null,
+                        "finish_date": null,
+                        "now": null,
+                        "in_progress": false
+                    }
+                    
+                }
+            }
+        }
+    }
+}
