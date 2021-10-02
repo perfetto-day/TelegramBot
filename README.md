@@ -1,1 +1,3 @@
 # TelegramBot
+
+NOT YET FINISHED
